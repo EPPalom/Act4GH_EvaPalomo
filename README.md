@@ -15,7 +15,6 @@ Se realizará con un archivo.java que contendrá lo siguiente:
 <sub>La versión 2.0 es una errata, debería haber sido V2.0 (posible modificación futura)</sub>
 
 
-
 ![Imagen GitHub](https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg)
 
 Puedes encontrar más información sobre como escribir el README.md en GitHub en el siguiente [enlace](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
