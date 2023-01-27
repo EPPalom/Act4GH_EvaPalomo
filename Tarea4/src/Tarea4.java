@@ -7,6 +7,7 @@ public class Tarea4 {
     
     for (int i = 0; i < 20; i++) {
       numeros[i] = (int)(Math.random()*10+1);
+      System.out.println(numeros[i]);
     }
 
   }
